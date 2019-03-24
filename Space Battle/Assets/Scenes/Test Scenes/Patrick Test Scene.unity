@@ -19363,7 +19363,7 @@ PlayableDirector:
   - key: {fileID: 114450311230942570, guid: ddff93123519c6f4a83456a91eaeee2f, type: 2}
     value: {fileID: 0}
   - key: {fileID: 114317513729971856, guid: ddff93123519c6f4a83456a91eaeee2f, type: 2}
-    value: {fileID: 0}
+    value: {fileID: 1868964795}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &1679407989
@@ -19578,6 +19578,7 @@ GameObject:
   - component: {fileID: 1868964791}
   - component: {fileID: 1868964790}
   - component: {fileID: 1868964794}
+  - component: {fileID: 1868964795}
   m_Layer: 0
   m_Name: Sphere (1)
   m_TagString: Untagged
@@ -19686,6 +19687,25 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 112
   m_CollisionDetection: 0
+--- !u!95 &1868964795
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1868964788}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1884927437
 GameObject:
   m_ObjectHideFlags: 0
@@ -19888,7 +19908,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1998097804}
-  m_LocalRotation: {x: -0.18321379, y: -0.336879, z: 0.067007065, w: -0.92111635}
+  m_LocalRotation: {x: -0.18321213, y: -0.33687901, z: 0.06700646, w: -0.92111677}
   m_LocalPosition: {x: -5.9929457, y: 3.847478, z: -7.0972586}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -19976,7 +19996,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2118546268}
-  m_LocalRotation: {x: -0.18321379, y: -0.336879, z: 0.067007065, w: -0.92111635}
+  m_LocalRotation: {x: -0.18321213, y: -0.33687901, z: 0.06700646, w: -0.92111677}
   m_LocalPosition: {x: -5.9929457, y: 3.847478, z: -7.0972586}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
