@@ -20272,6 +20272,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 795811114789316803, guid: 734c6c2e8727b4745ae75183011f550d,
+        type: 3}
+      propertyPath: m_Name
+      value: 'Flame '
+      objectReference: {fileID: 0}
+    - target: {fileID: 795811114963610400, guid: 734c6c2e8727b4745ae75183011f550d,
+        type: 3}
+      propertyPath: m_Name
+      value: Flame
+      objectReference: {fileID: 0}
     - target: {fileID: 795811116219293773, guid: 734c6c2e8727b4745ae75183011f550d,
         type: 3}
       propertyPath: m_LocalRotation.x
